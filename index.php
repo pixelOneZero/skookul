@@ -33,7 +33,8 @@
 					<div class="bus">
 						<div class="grid-cell" rel="1">1</div>			
 						<div class="grid-cell" rel="2">2</div>			
-						<div class="grid-cell" rel="3">3</div>			
+						<div class="grid-cell" rel="3">3</div>
+						<div class="grid-cell" rel="4">4</div>					
 						<div class="grid-cell" rel="5">5</div>			
 						<div class="grid-cell" rel="6">6</div>			
 						<div class="grid-cell" rel="7">7</div>			
